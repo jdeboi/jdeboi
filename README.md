@@ -1,4 +1,4 @@
-# Hi, I'm Jenna deBoisblanc
+# 👋, I'm Jenna.
 
 ![constellations image](https://jdeboi-public.s3.us-east-2.amazonaws.com/documents/github.jpeg)
 
