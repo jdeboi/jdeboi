@@ -2,10 +2,7 @@
 
 ![constellations image](https://jdeboi-public.s3.us-east-2.amazonaws.com/documents/github.jpeg)
 
-I'm a creative coder and teacher from New Orleans, LA. I received my undergraduate degree in physics from Pomona College (Claremont, CA) and my MFA in digital art from Tulane University (New Orleans, LA). I've shown work at the New Orleans Contemporary Art Center, The Front, Good Children, at light festivals in the South (Luna Fête, Light Up Albuquerque), and on digital platforms including The Wrong Biennale and SIGGRAPH. My clients include Toyota, the Aloft Hotel, the Florida Aquarium, and NASA.  
-  
-💻 fave stack: MERN  
-🍩 fave snack: popcorn 
+I'm a net artist, creative technologist, and data nerd in New Orleans. I make full-stack apps, weird web vignettes, audiovisual light installations, data visualizations, and occasionally things that don't fit neatly into any of those categories. Currently, I'm building data tools for NOLA Public Schools.
 
 [jdeboi.com](https://jdeboi.com/)  
 [@jdeboi](https://www.instagram.com/jdeboi/)
